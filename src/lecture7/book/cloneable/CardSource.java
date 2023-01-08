@@ -1,4 +1,4 @@
-package lecture7.cloneable;
+package lecture7.book.cloneable;
 
 import lecture5.flyweight.Card;
 

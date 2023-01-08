@@ -1,8 +1,8 @@
-package lecture7.Decorator;
+package lecture7.book.Decorator;
 
 import lecture5.flyweight.Card;
-import lecture7.CardStack;
-import lecture7.cloneable.CardSource;
+import lecture7.book.CardStack;
+import lecture7.book.cloneable.CardSource;
 
 // not decorator!
 public class LoggingDeck implements CardSource

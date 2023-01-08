@@ -1,7 +1,7 @@
-package lecture7.Prototype;
+package lecture7.book.Prototype;
 
-import lecture7.cloneable.Deck;
-import lecture7.cloneable.CardSource;
+import lecture7.book.cloneable.Deck;
+import lecture7.book.cloneable.CardSource;
 
 // Prototype Pattern
 public class CardSourceManager

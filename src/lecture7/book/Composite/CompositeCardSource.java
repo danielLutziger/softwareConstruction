@@ -1,7 +1,7 @@
-package lecture7.Composite;
+package lecture7.book.Composite;
 
 import lecture5.flyweight.Card;
-import lecture7.cloneable.CardSource;
+import lecture7.book.cloneable.CardSource;
 
 import java.util.ArrayList;
 import java.util.Arrays;

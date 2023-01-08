@@ -1,4 +1,4 @@
-package lecture7;
+package lecture7.book;
 
 import lecture5.flyweight.Card;
 

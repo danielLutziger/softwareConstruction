@@ -1,4 +1,4 @@
-package lecture7.command;
+package lecture7.book.command;
 
 import lecture5.flyweight.Card;
 

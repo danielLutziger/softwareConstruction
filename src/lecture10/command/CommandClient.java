@@ -1,7 +1,7 @@
 package lecture10.command;
 
 import lecture5.flyweight.Card;
-import lecture7.cloneable.Deck;
+import lecture7.book.cloneable.Deck;
 
 import java.util.ArrayList;
 import java.util.List;

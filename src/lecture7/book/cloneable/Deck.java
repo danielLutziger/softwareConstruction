@@ -1,10 +1,10 @@
-package lecture7.cloneable;
+package lecture7.book.cloneable;
 
 import lecture5.Rank;
 import lecture5.Suit;
 import lecture5.flyweight.Card;
-import lecture7.CardStack;
-import lecture7.command.Command;
+import lecture7.book.CardStack;
+import lecture7.book.command.Command;
 
 import java.util.*;
 

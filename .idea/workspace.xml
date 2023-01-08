@@ -5,8 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0555b76d-05bd-41b6-a9dc-c38fede1add4" name="Changes" comment="all code">
+      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/command/Executor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/command/Garage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/command/GarageCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/command/GarageRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/command/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/command/LightCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/command/LightRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/command/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/command/SimpleRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/composite/DrawingComposite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/composite/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/composite/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/composite/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/composite/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/Samples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/Samples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture10/command/CommandClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/command/CommandClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture7/CardStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture7/book/CardStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture7/Composite/CompositeCardSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture7/book/Composite/CompositeCardSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture7/Decorator/LoggingDeck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture7/book/Decorator/LoggingDeck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture7/Decorator/LoggingDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture7/book/Decorator/LoggingDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture7/Decorator/MemorizingDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture7/book/Decorator/MemorizingDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture7/Prototype/CardSourceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture7/book/Prototype/CardSourceManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture7/cloneable/CardSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture7/book/cloneable/CardSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture7/cloneable/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture7/book/cloneable/Deck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture7/command/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture7/book/command/Command.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,13 +94,14 @@
       <recent name="C:\Users\danie\IdeaProjects\swengineering\SoftwareConstruction\src\lecture2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lecture7.lecture.command" />
       <recent name="lecture8" />
       <recent name="lecture5.singleton" />
       <recent name="lecture5.flyweight" />
       <recent name="lecture1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CommandClient">
+  <component name="RunManager" selected="Application.lecture7.lecture.command.Main">
     <configuration name="CommandClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lecture10.command.CommandClient" />
       <module name="SoftwareConstruction" />
@@ -89,25 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inventory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture9.observer.Inventory" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture7.Main" />
       <module name="SoftwareConstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture9.observer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Samples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture10.Samples" />
-      <module name="SoftwareConstruction" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lecture10.*" />
+          <option name="PATTERN" value="lecture7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +141,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lecture9.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture9.Main" />
+    <configuration name="lecture7.lecture.command.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture7.lecture.command.Main" />
       <module name="SoftwareConstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture9.visitorPattern.*" />
+          <option name="PATTERN" value="lecture7.lecture.command.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lecture7.lecture.composite.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture7.lecture.composite.Main" />
+      <module name="SoftwareConstruction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture7.lecture.composite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lecture7.lecture.command.Main" />
+        <item itemvalue="Application.lecture7.lecture.composite.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.CommandClient" />
         <item itemvalue="Application.StrategyClient" />
-        <item itemvalue="Application.Samples" />
-        <item itemvalue="Application.Inventory" />
-        <item itemvalue="Application.lecture9.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +187,7 @@
       <updated>1673011921161</updated>
       <workItem from="1673011922535" duration="731000" />
       <workItem from="1673084187841" duration="7451000" />
-      <workItem from="1673164466173" duration="9219000" />
+      <workItem from="1673164466173" duration="11819000" />
     </task>
     <task id="LOCAL-00001" summary="added drawing shape project">
       <created>1673085208296</created>
@@ -191,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673173540952</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="all code">
+      <created>1673173782067</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673173782067</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
