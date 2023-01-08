@@ -4,34 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0555b76d-05bd-41b6-a9dc-c38fede1add4" name="Changes" comment="added some patterns">
-      <change afterPath="$PROJECT_DIR$/src/lecture10/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/CardStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/Deck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/Samples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/command/CommandClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/command/DeckCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/strategy/AutoPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/strategy/CardSelection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/strategy/CardSelectionStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/strategy/StrategyClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/CardSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/CardSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/CompositeCardSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/Deck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/PrintVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/observer/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/visitorPattern/AbstractCardSourceVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/visitorPattern/CardSourceVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/visitorPattern/ChecksContainmentVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/visitorPattern/CountingVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/visitorPattern/StructurePrinterVisitor.java" afterDir="false" />
+    <list default="true" id="0555b76d-05bd-41b6-a9dc-c38fede1add4" name="Changes" comment="all code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture5/Suit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture5/Suit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture10/Samples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/Samples.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,13 +75,13 @@
       <recent name="lecture1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Samples">
-    <configuration name="Inventory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture9.observer.Inventory" />
+  <component name="RunManager" selected="Application.CommandClient">
+    <configuration name="CommandClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture10.command.CommandClient" />
       <module name="SoftwareConstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture9.observer.*" />
+          <option name="PATTERN" value="lecture10.command.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintVisitor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture9.PrintVisitor" />
+    <configuration name="Inventory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture9.observer.Inventory" />
       <module name="SoftwareConstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture9.visitorPattern.*" />
+          <option name="PATTERN" value="lecture9.observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lecture8.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture8.Main" />
+    <configuration name="StrategyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture10.strategy.StrategyClient" />
       <module name="SoftwareConstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture8.*" />
+          <option name="PATTERN" value="lecture10.strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CommandClient" />
+        <item itemvalue="Application.StrategyClient" />
         <item itemvalue="Application.Samples" />
         <item itemvalue="Application.Inventory" />
         <item itemvalue="Application.lecture9.Main" />
-        <item itemvalue="Application.PrintVisitor" />
-        <item itemvalue="Application.lecture8.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +161,7 @@
       <updated>1673011921161</updated>
       <workItem from="1673011922535" duration="731000" />
       <workItem from="1673084187841" duration="7451000" />
-      <workItem from="1673164466173" duration="8957000" />
+      <workItem from="1673164466173" duration="9219000" />
     </task>
     <task id="LOCAL-00001" summary="added drawing shape project">
       <created>1673085208296</created>
@@ -209,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673170601578</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="all code">
+      <created>1673173540952</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673173540952</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +211,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added drawing shape project" />
     <MESSAGE value="added some patterns" />
-    <option name="LAST_COMMIT_MESSAGE" value="added some patterns" />
+    <MESSAGE value="all code" />
+    <option name="LAST_COMMIT_MESSAGE" value="all code" />
   </component>
 </project>

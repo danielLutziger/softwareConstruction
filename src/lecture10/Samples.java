@@ -12,6 +12,16 @@ import java.util.function.Predicate;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+/**
+ * command: command pattern examples with functional programming
+ * strtegy; strategy pattern exampels with functional programming
+ *
+ * deck: implemented further methods for funcitonal programming including streams
+ * card stack: implemented stream methods
+ *
+ * card: implemented several methods to check (especially lambda expressions, stacked streams, and few method references)
+ * samples3: methods inculding method refre3nces, streams, lambda exampeles
+ */
 public class Samples
 {
     public static void main(String[] args)
