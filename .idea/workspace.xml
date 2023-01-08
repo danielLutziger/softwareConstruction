@@ -4,34 +4,89 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0555b76d-05bd-41b6-a9dc-c38fede1add4" name="Changes" comment="all code">
-      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/command/Executor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/command/Garage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/command/GarageCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/command/GarageRemote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/command/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/command/LightCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/command/LightRemote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/command/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/command/SimpleRemote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/composite/DrawingComposite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/composite/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/composite/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/composite/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture7/lecture/composite/Triangle.java" afterDir="false" />
+    <list default="true" id="0555b76d-05bd-41b6-a9dc-c38fede1add4" name="Changes" comment="added code fro mlecture 6">
+      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/ComparatorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/LambdaDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/ListenerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/PeopleBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/Predicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/PrintablePrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/PrintableReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/RoboCallTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/RoboCallTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/RoboCallTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/RoboCallTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/RoboContactAnon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/RoboContactLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/RoboContactMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/RoboContactMethods2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/RunnableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/RunnableTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/code/notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture8/lecture/inheritance/CardSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture8/lecture/inheritance/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture8/lecture/inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture8/lecture/inheritance/MemorizingDeck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/adapter/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/adapter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/adapter/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/adapter/Turkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/adapter/TurkeyAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/adapter/WildTurkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/decorator/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/decorator/Cappuccino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/decorator/CondimentDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/decorator/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/decorator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/decorator/Milk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/decorator/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/decorator/Soy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/decorator/Whip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/observable/IntegerPullPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/observable/IntegerPushPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/observable/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/observable/Observer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/command/CommandClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/command/CommandClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture7/CardStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture7/book/CardStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture7/Composite/CompositeCardSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture7/book/Composite/CompositeCardSource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture7/Decorator/LoggingDeck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture7/book/Decorator/LoggingDeck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture7/Decorator/LoggingDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture7/book/Decorator/LoggingDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture7/Decorator/MemorizingDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture7/book/Decorator/MemorizingDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture7/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture7/Prototype/CardSourceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture7/book/Prototype/CardSourceManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture7/cloneable/CardSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture7/book/cloneable/CardSource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture7/cloneable/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture7/book/cloneable/Deck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture7/command/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture7/book/command/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture10/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/book/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture10/CardStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/book/CardStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture10/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/book/Deck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture10/Filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/book/Filter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/book/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture10/Samples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/book/Samples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture10/command/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/book/command/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture10/command/CommandClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/book/command/CommandClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture10/command/DeckCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/book/command/DeckCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture10/strategy/AutoPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/book/strategy/AutoPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture10/strategy/CardSelection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/book/strategy/CardSelection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture10/strategy/CardSelectionStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/book/strategy/CardSelectionStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture10/strategy/StrategyClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/book/strategy/StrategyClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture8/CardSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture8/book/CardSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture8/CardStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture8/book/CardStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture8/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture8/book/Deck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture8/GameModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture8/book/GameModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture8/book/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture8/decorator/AbstractDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture8/book/decorator/AbstractDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture8/decorator/LoggingDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture8/book/decorator/LoggingDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture8/inheritance/MemorizingDeck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture8/book/inheritance/MemorizingDeck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture8/templatePattern/AbstractMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture8/book/templatePattern/AbstractMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture8/templatePattern/CardMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture8/book/templatePattern/CardMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture8/templatePattern/Move.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture8/book/templatePattern/Move.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture9/CardSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture9/book/CardSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture9/CardSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture9/book/CardSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture9/CompositeCardSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture9/book/CompositeCardSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture9/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture9/book/Deck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture9/book/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture9/PrintVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture9/book/PrintVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture9/observer/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture9/book/observer/Inventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture9/visitorPattern/AbstractCardSourceVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture9/book/visitorPattern/AbstractCardSourceVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture9/visitorPattern/CardSourceVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture9/book/visitorPattern/CardSourceVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture9/visitorPattern/ChecksContainmentVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture9/book/visitorPattern/ChecksContainmentVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture9/visitorPattern/CountingVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture9/book/visitorPattern/CountingVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture9/visitorPattern/StructurePrinterVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture9/book/visitorPattern/StructurePrinterVisitor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +145,7 @@
       <recent name="C:\Users\danie\IdeaProjects\swengineering\SoftwareConstruction\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\danie\IdeaProjects\swengineering\SoftwareConstruction\src\lecture10\lecture\code" />
       <recent name="C:\Users\danie\IdeaProjects\swengineering\SoftwareConstruction\src\lecture3" />
       <recent name="C:\Users\danie\IdeaProjects\swengineering\SoftwareConstruction\src\lecture2" />
     </key>
@@ -101,13 +157,13 @@
       <recent name="lecture1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lecture7.lecture.command.Main">
-    <configuration name="CommandClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture10.command.CommandClient" />
+  <component name="RunManager" selected="Application.RoboCallTest03">
+    <configuration name="ComparatorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture10.lecture.ComparatorDemo" />
       <module name="SoftwareConstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture10.command.*" />
+          <option name="PATTERN" value="lecture10.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture7.Main" />
+    <configuration name="ListenerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture10.lecture.ListenerDemo" />
       <module name="SoftwareConstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture7.*" />
+          <option name="PATTERN" value="lecture10.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrategyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture10.strategy.StrategyClient" />
+    <configuration name="RoboCallTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture10.lecture.RoboCallTest02" />
       <module name="SoftwareConstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture10.strategy.*" />
+          <option name="PATTERN" value="lecture10.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lecture7.lecture.command.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture7.lecture.command.Main" />
+    <configuration name="RoboCallTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture10.lecture.RoboCallTest03" />
       <module name="SoftwareConstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture7.lecture.command.*" />
+          <option name="PATTERN" value="lecture10.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +210,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lecture7.lecture.composite.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture7.lecture.composite.Main" />
+    <configuration name="RunnableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture10.lecture.RunnableDemo" />
       <module name="SoftwareConstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture7.lecture.composite.*" />
+          <option name="PATTERN" value="lecture10.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,11 +225,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lecture7.lecture.command.Main" />
-        <item itemvalue="Application.lecture7.lecture.composite.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.CommandClient" />
-        <item itemvalue="Application.StrategyClient" />
+        <item itemvalue="Application.RoboCallTest03" />
+        <item itemvalue="Application.RoboCallTest02" />
+        <item itemvalue="Application.ListenerDemo" />
+        <item itemvalue="Application.ComparatorDemo" />
+        <item itemvalue="Application.RunnableDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +243,7 @@
       <updated>1673011921161</updated>
       <workItem from="1673011922535" duration="731000" />
       <workItem from="1673084187841" duration="7451000" />
-      <workItem from="1673164466173" duration="11819000" />
+      <workItem from="1673164466173" duration="20179000" />
     </task>
     <task id="LOCAL-00001" summary="added drawing shape project">
       <created>1673085208296</created>
@@ -224,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673173782067</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added code fro mlecture 6">
+      <created>1673176417817</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673176417817</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,6 +308,18 @@
     <MESSAGE value="added drawing shape project" />
     <MESSAGE value="added some patterns" />
     <MESSAGE value="all code" />
-    <option name="LAST_COMMIT_MESSAGE" value="all code" />
+    <MESSAGE value="added code fro mlecture 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="added code fro mlecture 6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lecture8/lecture/inheritance/Main.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
