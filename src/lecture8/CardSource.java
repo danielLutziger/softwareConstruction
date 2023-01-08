@@ -1,0 +1,19 @@
+package lecture8;
+
+import lecture5.flyweight.Card;
+
+public interface CardSource
+{
+    /**
+     * Returns a card from the source.
+     *
+     * @return The next available card.
+     * @pre !isEmpty()
+     */
+    Card draw();
+
+    /**
+     * @return True if there is no card in the source.
+     */
+    boolean isEmpty();
+}

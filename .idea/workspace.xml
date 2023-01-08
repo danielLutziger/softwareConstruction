@@ -4,56 +4,58 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0555b76d-05bd-41b6-a9dc-c38fede1add4" name="Changes" comment="added drawing shape project">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture1/TwelveDays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture2/book/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture2/book/Deck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture2/book/Rank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture2/book/Suit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture4/iterator/example/Aggregate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture4/iterator/example/Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture4/iterator/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture4/iterator/example/Topic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture4/iterator/example/TopicAggregate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture4/iterator/example/TopicIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture4/iterator/lecture/DinerMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture4/iterator/lecture/DinerMenuIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture4/iterator/lecture/Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture4/iterator/lecture/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture4/iterator/lecture/MenuItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture4/iterator/lecture/PancakeHouseIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture4/iterator/lecture/PancakeHouseMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture4/iterator/lecture/Waitress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture4/objectState/GumballMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture4/objectState/HasQuarterState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture4/objectState/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture4/objectState/NoQuarterState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture4/objectState/SoldState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture4/objectState/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture4/strategy/CreditCardStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture4/strategy/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture4/strategy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture4/strategy/PaymentStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture4/strategy/PaypalStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture4/strategy/ShoppingCart.java" afterDir="false" />
+    <list default="true" id="0555b76d-05bd-41b6-a9dc-c38fede1add4" name="Changes" comment="added some patterns">
+      <change afterPath="$PROJECT_DIR$/src/lecture3/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture3/CardSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture3/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture3/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture3/Rank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture3/Suit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture5/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture5/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture5/Rank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture5/Suit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture5/flyweight/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture5/nullobjectpattern/CardSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture5/singleton/GameModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture5/singleton/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture5/testing/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture5/testing/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture6/Rank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture6/Suit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture6/testing/AbsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture6/testing/MetaprogrammingSamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture6/testing/classicTests/FoundationPile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture6/testing/classicTests/TestFoundationPile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture6/testing/strategyPatternAndSingleton/GameModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture6/testing/strategyPatternAndSingleton/GameViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture6/testing/strategyPatternAndSingleton/Move.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture6/testing/strategyPatternAndSingleton/PlayingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture6/testing/strategyPatternAndSingleton/TestGameModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture7/CardStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture7/Composite/CompositeCardSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture7/Decorator/LoggingDeck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture7/Decorator/LoggingDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture7/Decorator/MemorizingDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture7/Prototype/CardSourceManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture7/cloneable/CardSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture7/cloneable/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture7/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture8/CardSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture8/CardStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture8/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture8/GameModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture8/decorator/AbstractDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture8/decorator/LoggingDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture8/inheritance/MemorizingDeck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture8/templatePattern/AbstractMove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture8/templatePattern/CardMove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture8/templatePattern/Move.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture2/lectureContent/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture2/model/Drawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture2/lectureContent/model/Drawing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture2/model/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture2/lectureContent/model/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture2/players/DrawingPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture2/lectureContent/players/DrawingPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture2/players/ShapePlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture2/lectureContent/players/ShapePlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture2/sound/ChannelData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture2/lectureContent/sound/ChannelData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture2/sound/MidiSynth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture2/lectureContent/sound/MidiSynth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture2/ui/DrawingEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture2/lectureContent/ui/DrawingEditor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture2/ui/tools/DeleteTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture2/lectureContent/ui/tools/DeleteTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture2/ui/tools/MoveTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture2/lectureContent/ui/tools/MoveTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture2/ui/tools/PlayDrawingTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture2/lectureContent/ui/tools/PlayDrawingTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture2/ui/tools/PlayShapeTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture2/lectureContent/ui/tools/PlayShapeTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture2/ui/tools/ResizeTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture2/lectureContent/ui/tools/ResizeTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture2/ui/tools/ShapeTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture2/lectureContent/ui/tools/ShapeTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture2/ui/tools/Tool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture2/lectureContent/ui/tools/Tool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftwareConstruction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SoftwareConstruction.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture3/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,26 +78,39 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2JxFeBNNKm6QvH1WXzn0LkKFU39" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/danie/IdeaProjects/swengineering/SoftwareConstruction/src",
+    "last_opened_file_path": "C:/Users/danie/IdeaProjects/swengineering/SoftwareConstruction/src/lecture6/testing",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\danie\IdeaProjects\swengineering\SoftwareConstruction\src\lecture6\testing" />
+      <recent name="C:\Users\danie\IdeaProjects\swengineering\SoftwareConstruction\test" />
       <recent name="C:\Users\danie\IdeaProjects\swengineering\SoftwareConstruction\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -103,16 +118,19 @@
       <recent name="C:\Users\danie\IdeaProjects\swengineering\SoftwareConstruction\src\lecture2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lecture8" />
+      <recent name="lecture5.singleton" />
+      <recent name="lecture5.flyweight" />
       <recent name="lecture1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lecture4.objectState.Main">
+  <component name="RunManager" selected="Application.lecture8.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture4.iterator.lecture.Main" />
+      <option name="MAIN_CLASS_NAME" value="lecture7.Main" />
       <module name="SoftwareConstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture4.iterator.lecture.*" />
+          <option name="PATTERN" value="lecture7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lecture4.iterator.example.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture4.iterator.example.Main" />
+    <configuration name="MetaprogrammingSamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture6.testing.MetaprogrammingSamples" />
       <module name="SoftwareConstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture4.iterator.example.*" />
+          <option name="PATTERN" value="lecture6.testing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lecture4.objectState.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture4.objectState.Main" />
+    <configuration name="lecture8.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture8.Main" />
       <module name="SoftwareConstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture4.objectState.*" />
+          <option name="PATTERN" value="lecture8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,25 +164,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lecture4.strategy.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture4.strategy.Main" />
+    <configuration name="TestFoundationPile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SoftwareConstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture4.strategy.*" />
+          <option name="PATTERN" value="lecture6.testing.classicTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="lecture6.testing.classicTests" />
+      <option name="MAIN_CLASS_NAME" value="lecture6.testing.classicTests.TestFoundationPile" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGameModel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SoftwareConstruction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture6.testing.strategyPatternAndSingleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lecture6.testing.strategyPattern" />
+      <option name="MAIN_CLASS_NAME" value="lecture6.testing.strategyPatternAndSingleton.TestGameModel" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lecture4.objectState.Main" />
-        <item itemvalue="Application.lecture4.strategy.Main" />
-        <item itemvalue="Application.lecture4.iterator.example.Main" />
+        <item itemvalue="Application.lecture8.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.TestGameModel" />
+        <item itemvalue="JUnit.TestFoundationPile" />
+        <item itemvalue="Application.MetaprogrammingSamples" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +213,8 @@
       <option name="presentableId" value="Default" />
       <updated>1673011921161</updated>
       <workItem from="1673011922535" duration="731000" />
-      <workItem from="1673084187841" duration="6818000" />
+      <workItem from="1673084187841" duration="7451000" />
+      <workItem from="1673164466173" duration="6042000" />
     </task>
     <task id="LOCAL-00001" summary="added drawing shape project">
       <created>1673085208296</created>
@@ -186,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673085208296</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added some patterns">
+      <created>1673091237148</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673091237148</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,6 +249,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added drawing shape project" />
-    <option name="LAST_COMMIT_MESSAGE" value="added drawing shape project" />
+    <MESSAGE value="added some patterns" />
+    <option name="LAST_COMMIT_MESSAGE" value="added some patterns" />
   </component>
 </project>

@@ -2,9 +2,15 @@ package lecture3;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Date;
 import java.util.List;
 
+
+/**
+ * lecture: immutability
+ * book:
+ * - card: immutable, comparison, static factory method
+ * - deck: iterator, comparator
+ */
 public class Main {
     public static void main(String args[]){
         ArrayList x = new ArrayList(Arrays.asList(-4, 3, 5, -1, 0, -23));
