@@ -4,36 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0555b76d-05bd-41b6-a9dc-c38fede1add4" name="Changes" comment="added code fro mlecture 7,8,9">
-      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/baseDerive/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/inheritanceExample/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/inheritanceExample/Porsche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/lastdigit/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/lastdigit/StringUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/removedSwitch/BardPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/removedSwitch/IPlayerStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/removedSwitch/MagePlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/removedSwitch/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/removedSwitch/WarriorPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/specialBoolean/MyBoolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/specialBoolean/MyBooleanTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/specialBoolean/MyFalse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/specialBoolean/MyTrue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/specialBoolean/MyUnknown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture11/Zoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture11/exceptions/AllergyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture11/exceptions/BrokeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture11/exceptions/DidntEat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture11/exceptions/MessyError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture11/exceptions/NotHungry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture11/model/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture11/model/Keeper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture11/model/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture11/tests/AnimalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/lecture/code/notes.md" beforeDir="false" />
+    <list default="true" id="0555b76d-05bd-41b6-a9dc-c38fede1add4" name="Changes" comment="added a lot of code">
+      <change beforePath="$PROJECT_DIR$/src/examBoilerPlate/specialBoolean/MyBooleanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examBoilerPlate/specialBoolean/MyBooleanTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,7 +191,7 @@
       <workItem from="1673164466173" duration="23975000" />
       <workItem from="1673255489821" duration="3855000" />
       <workItem from="1673339336058" duration="15324000" />
-      <workItem from="1673424353620" duration="1840000" />
+      <workItem from="1673424353620" duration="2126000" />
     </task>
     <task id="LOCAL-00001" summary="added drawing shape project">
       <created>1673085208296</created>
@@ -270,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673192738634</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added a lot of code">
+      <created>1673428132616</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1673428132616</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,7 +272,8 @@
     <MESSAGE value="all code" />
     <MESSAGE value="added code fro mlecture 6" />
     <MESSAGE value="added code fro mlecture 7,8,9" />
-    <option name="LAST_COMMIT_MESSAGE" value="added code fro mlecture 7,8,9" />
+    <MESSAGE value="added a lot of code" />
+    <option name="LAST_COMMIT_MESSAGE" value="added a lot of code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

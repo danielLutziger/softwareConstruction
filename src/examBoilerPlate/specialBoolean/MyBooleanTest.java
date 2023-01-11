@@ -2,8 +2,7 @@ package examBoilerPlate.specialBoolean;
 
 import org.junit.Test;
 
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertTrue;
+import static org.junit.Assert.*;
 
 
 public class MyBooleanTest {
@@ -62,5 +61,39 @@ public class MyBooleanTest {
     public void testMyFalseNotA(){
         assertTrue(b2.not() instanceof MyTrue);
     }
+/*
+    private MyBoolean myTrue = new MyTrue();
+    private MyBoolean myFalse = new MyFalse();
+    private MyBoolean myUnknown = new MyUnknown();
+    private boolean isTrue = false;
+    private boolean isFalse = false;
+    private boolean isUnknown = false;
+    @Test
+    public void testIfTrue() {
+        myTrue.ifTrue(() -> isTrue = true);
+        assertTrue(isTrue);
+        myFalse.ifTrue(() -> isTrue = true);
+        assertFalse(isTrue);
+        myUnknown.ifTrue(() -> isTrue = true);
+        assertFalse(isTrue);
+    }
+    @Test
+    public void testIfFalse() {
+        myTrue.ifFalse(() -> isFalse = true);
+        assertFalse(isFalse);
+        myFalse.ifFalse(() -> isFalse = true);
+        assertTrue(isFalse);
+        myUnknown.ifFalse(() -> isFalse = true);
+        assertFalse(isFalse);
+    }
+    @Test
+    public void testIfUnknown() {
+        myTrue.ifUnknown(() -> isUnknown = true);
+        assertFalse(isUnknown);
+        myFalse.ifUnknown(() -> isUnknown = true);
+        assertFalse(isUnknown);
+        myUnknown.ifUnknown(() -> isUnknown = true);
+        assertTrue(isUnknown);
+    }*/
 
 }
