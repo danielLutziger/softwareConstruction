@@ -1,5 +1,4 @@
-package lecture10.lecture;
-import lecture10.lecture.PeopleBuilder;
+package lecture10.lecture.functional;
 
 import java.util.List;
 

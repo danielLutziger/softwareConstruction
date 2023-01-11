@@ -1,4 +1,4 @@
-package lecture10.lecture;
+package lecture10.lecture.functional;
 
 public class Teacher implements Printable, PrintablePrefix, PrintableReturn{
     private String name;

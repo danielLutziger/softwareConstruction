@@ -1,4 +1,4 @@
-package lecture10.lecture;
+package lecture10.lecture.functional;
 
 public class LambdaDemo {
     public static void main(String args[]){

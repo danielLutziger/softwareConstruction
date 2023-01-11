@@ -1,19 +1,24 @@
 package examBoilerPlate;
 
+import java.util.Optional;
+
 public class Point {
-    private Number x;
-    private Number y;
+    private Optional<Number> x;
+    private Optional<Number> y;
 
     public Point(Number x, Number y) {
-        this.x = x;
-        this.y = y;
+
+        this.x = Optional.ofNullable(x);
+        this.y = Optional.ofNullable(y);
     }
 
     public Number getX() {
-        return x;
+        if (x.isPresent()) return x.get();
+        return 0;
     }
 
     public Number getY() {
-        return y;
+        if (y.isPresent()) return y.get();
+        return 0;
     }
 }

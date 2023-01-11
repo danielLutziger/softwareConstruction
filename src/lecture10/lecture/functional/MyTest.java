@@ -1,4 +1,4 @@
-package lecture10.lecture;
+package lecture10.lecture.functional;
 
 /**
  * create a "test" to decide whether a person should be contacted or not

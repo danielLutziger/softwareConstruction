@@ -1,4 +1,4 @@
-package lecture10.lecture;
+package lecture10.lecture.functional;
 
 @FunctionalInterface
 public interface PrintableReturn {

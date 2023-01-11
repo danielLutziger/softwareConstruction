@@ -33,7 +33,7 @@ public class Main {
         b3.and(b3);
 
         printPositionAsDouble(new Point(34, 53));
-        //printPositionAsDouble(new Point(null, null));
+        printPositionAsDouble(new Point(null, null));
 
         Player p1 = new WarriorPlayer(5);
         Player p2 = new MagePlayer(1);

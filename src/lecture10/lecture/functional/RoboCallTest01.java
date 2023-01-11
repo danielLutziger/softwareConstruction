@@ -1,6 +1,4 @@
-package lecture10.lecture;
-
-import lecture10.lecture.PeopleBuilder;
+package lecture10.lecture.functional;
 
 import java.util.List;
 
@@ -8,14 +6,14 @@ import java.util.List;
  *
  * @author MikeW
  */
-public class RoboCallTest02 {
+public class RoboCallTest01 {
 
   public static void main(String[] args) {
     
     List<Person> pl = PeopleBuilder.createShortList();
-    RoboContactMethods2 robo = new RoboContactMethods2();
+    RoboContactMethods robo = new RoboContactMethods();
     
-    System.out.println("\n==== Test 02 ====");
+    System.out.println("\n==== Test 01 ====");
     System.out.println("\n=== Calling all Drivers ===");
     robo.callDrivers(pl);
     
