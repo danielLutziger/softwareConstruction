@@ -4,89 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0555b76d-05bd-41b6-a9dc-c38fede1add4" name="Changes" comment="added code fro mlecture 6">
-      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/ComparatorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/LambdaDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/ListenerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/PeopleBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/Predicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/PrintablePrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/PrintableReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/RoboCallTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/RoboCallTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/RoboCallTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/RoboCallTest04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/RoboContactAnon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/RoboContactLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/RoboContactMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/RoboContactMethods2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/RunnableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/RunnableTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture10/lecture/code/notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture8/lecture/inheritance/CardSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture8/lecture/inheritance/Deck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture8/lecture/inheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture8/lecture/inheritance/MemorizingDeck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/adapter/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/adapter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/adapter/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/adapter/Turkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/adapter/TurkeyAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/adapter/WildTurkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/decorator/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/decorator/Cappuccino.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/decorator/CondimentDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/decorator/Espresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/decorator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/decorator/Milk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/decorator/Mocha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/decorator/Soy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/decorator/Whip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/observable/IntegerPullPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/observable/IntegerPushPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/observable/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture9/lecture/observable/Observer.java" afterDir="false" />
+    <list default="true" id="0555b76d-05bd-41b6-a9dc-c38fede1add4" name="Changes" comment="added code fro mlecture 7,8,9">
+      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/baseDerive/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/inheritanceExample/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/inheritanceExample/Porsche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/lastdigit/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/lastdigit/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/removedSwitch/BardPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/removedSwitch/IPlayerStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/removedSwitch/MagePlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/removedSwitch/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/removedSwitch/WarriorPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/specialBoolean/MyBoolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/specialBoolean/MyBooleanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/specialBoolean/MyFalse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/specialBoolean/MyTrue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examBoilerPlate/specialBoolean/MyUnknown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture11/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture11/exceptions/AllergyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture11/exceptions/BrokeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture11/exceptions/DidntEat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture11/exceptions/MessyError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture11/exceptions/NotHungry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture11/model/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture11/model/Keeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture11/model/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture11/tests/AnimalTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/book/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/CardStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/book/CardStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/book/Deck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/Filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/book/Filter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/book/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/Samples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/book/Samples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/command/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/book/command/Command.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/command/CommandClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/book/command/CommandClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/command/DeckCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/book/command/DeckCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/strategy/AutoPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/book/strategy/AutoPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/strategy/CardSelection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/book/strategy/CardSelection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/strategy/CardSelectionStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/book/strategy/CardSelectionStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/strategy/StrategyClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/book/strategy/StrategyClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture8/CardSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture8/book/CardSource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture8/CardStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture8/book/CardStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture8/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture8/book/Deck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture8/GameModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture8/book/GameModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture8/book/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture8/decorator/AbstractDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture8/book/decorator/AbstractDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture8/decorator/LoggingDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture8/book/decorator/LoggingDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture8/inheritance/MemorizingDeck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture8/book/inheritance/MemorizingDeck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture8/templatePattern/AbstractMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture8/book/templatePattern/AbstractMove.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture8/templatePattern/CardMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture8/book/templatePattern/CardMove.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture8/templatePattern/Move.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture8/book/templatePattern/Move.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture9/CardSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture9/book/CardSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture9/CardSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture9/book/CardSource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture9/CompositeCardSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture9/book/CompositeCardSource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture9/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture9/book/Deck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture9/book/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture9/PrintVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture9/book/PrintVisitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture9/observer/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture9/book/observer/Inventory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture9/visitorPattern/AbstractCardSourceVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture9/book/visitorPattern/AbstractCardSourceVisitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture9/visitorPattern/CardSourceVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture9/book/visitorPattern/CardSourceVisitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture9/visitorPattern/ChecksContainmentVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture9/book/visitorPattern/ChecksContainmentVisitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture9/visitorPattern/CountingVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture9/book/visitorPattern/CountingVisitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture9/visitorPattern/StructurePrinterVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture9/book/visitorPattern/StructurePrinterVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture10/lecture/code/notes.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +45,7 @@
       <list>
         <option value="Enum" />
         <option value="Interface" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -116,28 +64,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/danie/IdeaProjects/swengineering/SoftwareConstruction/src/lecture6/testing",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/danie/IdeaProjects/swengineering/SoftwareConstruction/src/lecture6/testing&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "PLAIN_TEXT"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;PLAIN_TEXT&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\danie\IdeaProjects\swengineering\SoftwareConstruction\src\lecture6\testing" />
@@ -145,91 +96,113 @@
       <recent name="C:\Users\danie\IdeaProjects\swengineering\SoftwareConstruction\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\danie\IdeaProjects\swengineering\SoftwareConstruction\src\lecture11\exceptions" />
+      <recent name="C:\Users\danie\IdeaProjects\swengineering\SoftwareConstruction\src\lecture11\model" />
+      <recent name="C:\Users\danie\IdeaProjects\swengineering\SoftwareConstruction\src\lecture11\tests" />
+      <recent name="C:\Users\danie\IdeaProjects\swengineering\SoftwareConstruction\src\lecture11\ui" />
       <recent name="C:\Users\danie\IdeaProjects\swengineering\SoftwareConstruction\src\lecture10\lecture\code" />
-      <recent name="C:\Users\danie\IdeaProjects\swengineering\SoftwareConstruction\src\lecture3" />
-      <recent name="C:\Users\danie\IdeaProjects\swengineering\SoftwareConstruction\src\lecture2" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="examBoilerPlate.specialBoolean" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lecture13" />
       <recent name="lecture7.lecture.command" />
       <recent name="lecture8" />
       <recent name="lecture5.singleton" />
       <recent name="lecture5.flyweight" />
-      <recent name="lecture1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RoboCallTest03">
-    <configuration name="ComparatorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture10.lecture.ComparatorDemo" />
+  <component name="RunManager" selected="JUnit.MyBooleanTest">
+    <configuration name="Main.testAsmallerFalseBSmallerFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SoftwareConstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture10.lecture.*" />
+          <option name="PATTERN" value="examBoilerPlate.lastdigit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="examBoilerPlate.lastdigit" />
+      <option name="MAIN_CLASS_NAME" value="examBoilerPlate.lastdigit.Main" />
+      <option name="METHOD_NAME" value="testAsmallerFalseBSmallerFalse" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListenerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture10.lecture.ListenerDemo" />
+    <configuration name="MyBooleanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SoftwareConstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture10.lecture.*" />
+          <option name="PATTERN" value="examBoilerPlate.specialBoolean.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="examBoilerPlate.specialBoolean" />
+      <option name="MAIN_CLASS_NAME" value="examBoilerPlate.specialBoolean.MyBooleanTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RoboCallTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture10.lecture.RoboCallTest02" />
+    <configuration name="StringUtils.testToSnakeCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SoftwareConstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture10.lecture.*" />
+          <option name="PATTERN" value="examBoilerPlate.lastdigit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="examBoilerPlate.lastdigit" />
+      <option name="MAIN_CLASS_NAME" value="examBoilerPlate.lastdigit.StringUtils" />
+      <option name="METHOD_NAME" value="testToSnakeCase" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RoboCallTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture10.lecture.RoboCallTest03" />
+    <configuration name="StringUtils.testToSnakeCaseFail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SoftwareConstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture10.lecture.*" />
+          <option name="PATTERN" value="examBoilerPlate.lastdigit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="examBoilerPlate.lastdigit" />
+      <option name="MAIN_CLASS_NAME" value="examBoilerPlate.lastdigit.StringUtils" />
+      <option name="METHOD_NAME" value="testToSnakeCaseFail" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunnableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture10.lecture.RunnableDemo" />
+    <configuration name="StringUtils.testToSnakeCaseUpperCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SoftwareConstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture10.lecture.*" />
+          <option name="PATTERN" value="examBoilerPlate.lastdigit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="examBoilerPlate.lastdigit" />
+      <option name="MAIN_CLASS_NAME" value="examBoilerPlate.lastdigit.StringUtils" />
+      <option name="METHOD_NAME" value="testToSnakeCaseUpperCase" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RoboCallTest03" />
-        <item itemvalue="Application.RoboCallTest02" />
-        <item itemvalue="Application.ListenerDemo" />
-        <item itemvalue="Application.ComparatorDemo" />
-        <item itemvalue="Application.RunnableDemo" />
+        <item itemvalue="JUnit.MyBooleanTest" />
+        <item itemvalue="JUnit.StringUtils.testToSnakeCaseFail" />
+        <item itemvalue="JUnit.StringUtils.testToSnakeCaseUpperCase" />
+        <item itemvalue="JUnit.StringUtils.testToSnakeCase" />
+        <item itemvalue="JUnit.Main.testAsmallerFalseBSmallerFalse" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +216,10 @@
       <updated>1673011921161</updated>
       <workItem from="1673011922535" duration="731000" />
       <workItem from="1673084187841" duration="7451000" />
-      <workItem from="1673164466173" duration="20179000" />
+      <workItem from="1673164466173" duration="23975000" />
+      <workItem from="1673255489821" duration="3855000" />
+      <workItem from="1673339336058" duration="15324000" />
+      <workItem from="1673424353620" duration="1840000" />
     </task>
     <task id="LOCAL-00001" summary="added drawing shape project">
       <created>1673085208296</created>
@@ -287,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673176417817</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added code fro mlecture 7,8,9">
+      <created>1673192738634</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673192738634</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -309,7 +292,8 @@
     <MESSAGE value="added some patterns" />
     <MESSAGE value="all code" />
     <MESSAGE value="added code fro mlecture 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="added code fro mlecture 6" />
+    <MESSAGE value="added code fro mlecture 7,8,9" />
+    <option name="LAST_COMMIT_MESSAGE" value="added code fro mlecture 7,8,9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -319,7 +303,35 @@
           <line>20</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/examBoilerPlate/Main.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SoftwareConstruction$Main_testAsmallerTrueBSmallerFalse.ic" NAME="Main.testAsmallerTrueBSmallerFalse Coverage Results" MODIFIED="1673366375994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>examBoilerPlate.lastdigit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SoftwareConstruction$Main_testAsmallerFalseBSmallerTrue.ic" NAME="Main.testAsmallerFalseBSmallerTrue Coverage Results" MODIFIED="1673366366770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>examBoilerPlate.lastdigit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SoftwareConstruction$StringUtils_testToSnakeCaseFail.ic" NAME="StringUtils.testToSnakeCaseFail Coverage Results" MODIFIED="1673367111429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>examBoilerPlate.lastdigit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SoftwareConstruction$StringUtils_testToSnakeCaseUpperCase.ic" NAME="StringUtils.testToSnakeCaseUpperCase Coverage Results" MODIFIED="1673367017261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>examBoilerPlate.lastdigit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SoftwareConstruction$Main_testAsmallerTrueBSmallerTrue.ic" NAME="Main.testAsmallerTrueBSmallerTrue Coverage Results" MODIFIED="1673366318381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>examBoilerPlate.lastdigit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SoftwareConstruction$examBoilerPlate_lastdigit_Main.ic" NAME="examBoilerPlate.lastdigit.Main Coverage Results" MODIFIED="1673366324110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>examBoilerPlate.lastdigit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SoftwareConstruction$Main_testAsmallerFalseBSmallerFalse.ic" NAME="Main.testAsmallerFalseBSmallerFalse Coverage Results" MODIFIED="1673366380269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>examBoilerPlate.lastdigit.*</FILTER>
+    </SUITE>
   </component>
 </project>
