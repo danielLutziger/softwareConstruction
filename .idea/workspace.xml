@@ -4,31 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0555b76d-05bd-41b6-a9dc-c38fede1add4" name="Changes" comment="added easy observer">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examBoilerPlate/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examBoilerPlate/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examBoilerPlate/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examBoilerPlate/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/lecture/ComparatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/lecture/functional/ComparatorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/lecture/LambdaDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/lecture/functional/LambdaDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/lecture/ListenerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/lecture/functional/ListenerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/lecture/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/lecture/functional/MyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/lecture/PeopleBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/lecture/functional/PeopleBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/lecture/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/lecture/functional/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/lecture/Predicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/lecture/functional/Predicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/lecture/Printable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/lecture/functional/Printable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/lecture/PrintablePrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/lecture/functional/PrintablePrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/lecture/PrintableReturn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/lecture/functional/PrintableReturn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/lecture/RoboCallTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/lecture/functional/RoboCallTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/lecture/RoboCallTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/lecture/functional/RoboCallTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/lecture/RoboCallTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/lecture/functional/RoboCallTest03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/lecture/RoboCallTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/lecture/functional/RoboCallTest04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/lecture/RoboContactAnon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/lecture/functional/RoboContactAnon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/lecture/RoboContactLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/lecture/functional/RoboContactLambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/lecture/RoboContactMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/lecture/functional/RoboContactMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/lecture/RoboContactMethods2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/lecture/functional/RoboContactMethods2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/lecture/RunnableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/lecture/functional/RunnableDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/lecture/RunnableTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/lecture/functional/RunnableTeacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture10/lecture/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture10/lecture/functional/Teacher.java" afterDir="false" />
+    <list default="true" id="0555b76d-05bd-41b6-a9dc-c38fede1add4" name="Changes" comment="refactoring">
+      <change afterPath="$PROJECT_DIR$/Softconst_2.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,31 +36,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/danie/IdeaProjects/swengineering/SoftwareConstruction/src/lecture6/testing&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "last_opened_file_path": "C:/Users/danie/IdeaProjects/swengineering/SoftwareConstruction",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;PLAIN_TEXT&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\danie\IdeaProjects\swengineering\SoftwareConstruction\src\lecture6\testing" />
@@ -208,7 +185,7 @@
       <workItem from="1673164466173" duration="23975000" />
       <workItem from="1673255489821" duration="3855000" />
       <workItem from="1673339336058" duration="15324000" />
-      <workItem from="1673424353620" duration="5452000" />
+      <workItem from="1673424353620" duration="6072000" />
     </task>
     <task id="LOCAL-00001" summary="added drawing shape project">
       <created>1673085208296</created>
@@ -280,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673429219497</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="refactoring">
+      <created>1673439172772</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1673439172772</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,7 +290,8 @@
     <MESSAGE value="added a lot of code" />
     <MESSAGE value="test cases for the ifTrue methods" />
     <MESSAGE value="added easy observer" />
-    <option name="LAST_COMMIT_MESSAGE" value="added easy observer" />
+    <MESSAGE value="refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactoring" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
