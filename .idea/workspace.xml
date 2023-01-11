@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0555b76d-05bd-41b6-a9dc-c38fede1add4" name="Changes" comment="added a lot of code">
-      <change beforePath="$PROJECT_DIR$/src/examBoilerPlate/specialBoolean/MyBooleanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examBoilerPlate/specialBoolean/MyBooleanTest.java" afterDir="false" />
+    <list default="true" id="0555b76d-05bd-41b6-a9dc-c38fede1add4" name="Changes" comment="test cases for the ifTrue methods">
+      <change afterPath="$PROJECT_DIR$/src/refactoring/InappropriateIntimicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refactoring/observer/ConcreteObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refactoring/observer/ConcreteSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refactoring/observer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refactoring/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refactoring/observer/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +22,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -88,19 +94,16 @@
       <recent name="lecture5.flyweight" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MyBooleanTest">
-    <configuration name="Main.testAsmallerFalseBSmallerFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="refactoring.observer.Main" />
       <module name="SoftwareConstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="examBoilerPlate.lastdigit.*" />
+          <option name="PATTERN" value="refactoring.observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="examBoilerPlate.lastdigit" />
-      <option name="MAIN_CLASS_NAME" value="examBoilerPlate.lastdigit.Main" />
-      <option name="METHOD_NAME" value="testAsmallerFalseBSmallerFalse" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -170,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.MyBooleanTest" />
         <item itemvalue="JUnit.StringUtils.testToSnakeCaseFail" />
         <item itemvalue="JUnit.StringUtils.testToSnakeCaseUpperCase" />
         <item itemvalue="JUnit.StringUtils.testToSnakeCase" />
-        <item itemvalue="JUnit.Main.testAsmallerFalseBSmallerFalse" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +194,7 @@
       <workItem from="1673164466173" duration="23975000" />
       <workItem from="1673255489821" duration="3855000" />
       <workItem from="1673339336058" duration="15324000" />
-      <workItem from="1673424353620" duration="2126000" />
+      <workItem from="1673424353620" duration="3065000" />
     </task>
     <task id="LOCAL-00001" summary="added drawing shape project">
       <created>1673085208296</created>
@@ -249,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673428132616</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="test cases for the ifTrue methods">
+      <created>1673428259860</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673428259860</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,7 +283,8 @@
     <MESSAGE value="added code fro mlecture 6" />
     <MESSAGE value="added code fro mlecture 7,8,9" />
     <MESSAGE value="added a lot of code" />
-    <option name="LAST_COMMIT_MESSAGE" value="added a lot of code" />
+    <MESSAGE value="test cases for the ifTrue methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="test cases for the ifTrue methods" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
